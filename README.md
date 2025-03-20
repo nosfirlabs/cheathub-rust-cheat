@@ -5,7 +5,7 @@ Cheathub Rust Cheat is a comprehensive cheat solution for the game Rust, providi
 
 <img src="./menu.png" width="800">
 
-[![Cheathub Rust Cheat on YouTube](http://img.youtube.com/vi/fPHULuSIZ4E/0.jpg)](http://www.youtube.com/watch?v=fPHULuSIZ4E "Cheathub Rust Cheat")
+Youtube Video: [CHEATHUB RUST CHEAT DEMONSTRATION](https://www.youtube.com/watch?v=fPHULuSIZ4E)
 
 ## ⚠️ Disclaimer
 This software is provided for **educational purposes only**. Using this cheat in online games may violate terms of service and could result in your account being banned. The authors are not responsible for any consequences resulting from the use of this software.
